@@ -43,7 +43,7 @@
 <hr/>
 <img height="20" alt="GIF" src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify">
-Minhas habilidades incluem programação em Java,C, Html, Css e Javascript, além de trabalhar com bancos de dados MySQL. Destaco-me pela eficiência no desenvolvimento em C e Java, pela contruções de aplicações Web em JavaScript. Estou sempre em busca de desafios, aprender, ganhar experiência e oportunidades para aprimorar minhas habilidades. Vamos tornar o mundo um lugar melhor juntos?
+Minhas habilidades incluem programação em Java,C, Html, Css, JavaScript, Banco de Dados SQL, além de ter pacote office. Destaco-me pela eficiência no desenvolvimento em Java, pela contruções de aplicações Web em html e Css. Estou sempre em busca de aprender mais, ganhar experiência e novas oportunidades para aprimorar minhas habilidades. 
 </div>
 
 -----
