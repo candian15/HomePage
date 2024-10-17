@@ -114,7 +114,6 @@ Minhas habilidades incluem programação em Java,C, Html, Css, JavaScript, Banco
 </div>
 <div>
 <!--- <a href="https://twitter.com/candin_ath" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=candian15"/></a> -->
-<a href="https://www.last.fm/pt/user/candian15" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=candian15&width=400"/></a>
 
 </div>
 
