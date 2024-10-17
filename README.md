@@ -58,11 +58,11 @@ Minhas habilidades incluem programação em Java,C, Html, Css, JavaScript, Banco
 <div align="justify">
 <p>
 - :man_student: &nbsp; Sou estudante de Engenharia de Software.<br />
-- :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
+- :briefcase: &nbsp; Tenho interesse em vagas de Estágio na area e em vagas de Dev Jr..<br />
 - :soccer:&nbsp; Sou Cruzeirense! <br />
-- :football: &nbsp; Também gosto bastante de Futebol americano/NFL.<br />
+- ⚽ &nbsp; Também gosto bastante de Futebol.<br />
 - :airplane: &nbsp; Adoro viajar e conhecer novos lugares.<br />
-- :video_game: &nbsp; Gosto de praticar esportes nas horas vagas.<br />
+- :video_game: &nbsp; Gosto muito de jogar futebol e futvolei.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:acandian15@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 
 </p>
