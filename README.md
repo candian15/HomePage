@@ -17,7 +17,7 @@
 </td>
 <td><a href="https://www.instagram.com/ath.candian/" target="_blank"><img src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/luizfgontijo/" target="_blank"><img src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/arthur-candian-de-azevedo-moia/" target="_blank"><img src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
 </tr>
