@@ -41,7 +41,7 @@
 </div>
 
 <hr/>
-<img height="20" alt="GIF" src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
+<img height="20" alt="GIF" src="https://github.com/candian15/candian15/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify">
 Minhas habilidades incluem programação em Java,C, Html, Css, JavaScript, Banco de Dados SQL, além de ter pacote office. Destaco-me pela eficiência no desenvolvimento em Java, pela contruções de aplicações Web em html e Css. Estou sempre em busca de aprender mais, ganhar experiência e novas oportunidades para aprimorar minhas habilidades. 
 </div>
@@ -53,7 +53,7 @@ Minhas habilidades incluem programação em Java,C, Html, Css, JavaScript, Banco
 <img align="right" alt="GIF" src="https://github.com/candian15/candian15/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
 </div>
 
-<img height="20" alt="GIF" src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+<img height="20" alt="GIF" src="https://github.com/candian15/candian15/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
 
 <div align="justify">
 <p>
@@ -73,7 +73,7 @@ Minhas habilidades incluem programação em Java,C, Html, Css, JavaScript, Banco
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/luizfgontijo/luizfgontijo/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+<img height="20" alt="GIF" src="https://github.com/candian15/candian15/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/candian15/candian15/blob/main/img/java.png"/></a></code>
